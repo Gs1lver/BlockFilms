@@ -1,2 +1,2 @@
 # BlockFilmes
-Repositório do Projeto de Java do primeiro semestre de Linguagem de Programação no ano de 2022
+Sistema de cadastro de filmes, clientes e funcionários e consulta de relatórios de custos e outras informações feito com a linguagem JAVA para uma locadora fictícia denominada BlockFilms.
